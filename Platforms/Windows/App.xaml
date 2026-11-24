@@ -1,8 +1,8 @@
 ﻿<maui:MauiWinUIApplication
-    x:Class="MAUIQuiz.WinUI.App"
+    x:Class="MAUI_HttpClient_JSON_Quiz.WinUI.App"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:maui="using:Microsoft.Maui"
-    xmlns:local="using:MAUIQuiz.WinUI">
+    xmlns:local="using:MAUI_HttpClient_JSON_Quiz.WinUI">
 
 </maui:MauiWinUIApplication>

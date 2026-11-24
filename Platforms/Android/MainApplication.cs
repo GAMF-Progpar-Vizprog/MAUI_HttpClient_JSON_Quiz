@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace MAUIQuiz;
+namespace MAUI_HttpClient_JSON_Quiz;
 
 [Application]
 public class MainApplication : MauiApplication

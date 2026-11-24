@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MAUIQuiz
+namespace MAUI_HttpClient_JSON_Quiz
 {
 	public class Data
 	{

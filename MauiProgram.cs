@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace MAUIQuiz;
+namespace MAUI_HttpClient_JSON_Quiz;
 
 public static class MauiProgram
 {

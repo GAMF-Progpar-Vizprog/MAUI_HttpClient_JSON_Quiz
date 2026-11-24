@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace MAUIQuiz;
+namespace MAUI_HttpClient_JSON_Quiz;
 
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate

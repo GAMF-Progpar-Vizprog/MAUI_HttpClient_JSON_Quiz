@@ -2,7 +2,7 @@ using System;
 using Microsoft.Maui;
 using Microsoft.Maui.Hosting;
 
-namespace MAUIQuiz;
+namespace MAUI_HttpClient_JSON_Quiz;
 
 class Program : MauiApplication
 {

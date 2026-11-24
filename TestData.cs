@@ -1,4 +1,4 @@
-﻿namespace MAUIQuiz
+﻿namespace MAUI_HttpClient_JSON_Quiz
 {
 	public class Item
 	{
